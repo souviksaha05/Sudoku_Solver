@@ -1,0 +1,14 @@
+numpy
+opencv-python
+scikit-learn
+matplotlib
+keras
+tensorflow
+pickle-mixin
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+scipy
